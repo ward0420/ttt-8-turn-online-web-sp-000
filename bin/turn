@@ -2,3 +2,4 @@
 board = [" "," "," "," "," "," "," "," "," "]
 puts "Welcome to Tic Tact Toe!"
 display_board(board)
+turn(board)
