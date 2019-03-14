@@ -20,6 +20,6 @@ def position_taken?(board, index)
   else return true
 end
 
-def move
+def move(board, position, letter)
   
 end
