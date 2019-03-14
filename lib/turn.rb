@@ -21,5 +21,5 @@ def position_taken?(board, index)
 end
 
 def move(board, position, letter)
-  
+  board[position]
 end
