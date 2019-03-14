@@ -27,4 +27,5 @@ end
 def turn(board)
   letter = gets.chomp
   puts "Please enter 1-9:"
+  input_to_index
 end
